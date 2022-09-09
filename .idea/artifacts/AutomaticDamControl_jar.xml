@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutomaticDamControl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutomaticDamControl_jar</output-path>
+    <root id="archive" name="AutomaticDamControl.jar">
+      <element id="module-output" name="AutomaticDamControl" />
+    </root>
+  </artifact>
+</component>
